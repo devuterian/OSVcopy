@@ -4,6 +4,7 @@
 Lightroom 스타일 폴더(`YYYY-MM-DD` 또는 `YYYY/YYYY-MM-DD`)에 **복사** 또는 **이동**합니다.
 
 [![CI](https://github.com/devuterian/OSVcopy/actions/workflows/ci.yml/badge.svg)](https://github.com/devuterian/OSVcopy/actions/workflows/ci.yml)
+[![Commit standards](https://github.com/devuterian/OSVcopy/actions/workflows/commit-standards.yml/badge.svg)](https://github.com/devuterian/OSVcopy/actions/workflows/commit-standards.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
@@ -77,7 +78,7 @@ swift build -c release
 
 ## 기여·이슈
 
-이슈와 PR을 환영합니다. [CONTRIBUTING.md](CONTRIBUTING.md)
+이슈와 PR을 환영합니다. 이 저장소는 [LPFchan/repo-template](https://github.com/LPFchan/repo-template)의 **scaffold**를 채택했습니다. 커밋 규약·훅·`records/` 운영은 **[CONTRIBUTING.md](CONTRIBUTING.md)** 에 모아 두었습니다. (제품 사용법은 위 섹션, 저장소 “운영 OS”는 `records/REPO.md`.)
 
 ---
 
@@ -87,4 +88,4 @@ swift build -c release
 
 ---
 
-문서·저장소 운영 시 [LPFchan/repo-template](https://github.com/LPFchan/repo-template)을 참고했습니다. README 구성은 [devuterian/killeverybody](https://github.com/devuterian/killeverybody)처럼 **짧은 단계**로 맞추었습니다.
+README 문단 구성은 [devuterian/killeverybody](https://github.com/devuterian/killeverybody)처럼 짧은 단계 위주입니다. 저장소 거버넌스는 [LPFchan/repo-template](https://github.com/LPFchan/repo-template) README의 Getting Started 절차를 따릅니다.
