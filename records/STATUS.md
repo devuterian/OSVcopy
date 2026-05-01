@@ -22,10 +22,10 @@ Current accepted operational reality for this repo.
 - **Goal:** Match LPFchan/repo-template scaffold (policy, hooks, skills, workflows).
 - **Status:** `in progress`
 - **Why this matters now:** Single operator + agents need a shared contract for commits and artifacts.
-- **Current work:** Land scaffold files; migration commit; document in `CONTRIBUTING.md`.
+- **Current work:** Land scaffold files; migration commit; policy in `records/REPO.md` only.
 - **Exit criteria:** Hooks installed by default for contributors who run `install-hooks.sh`; CI green on `main`.
 - **Dependencies:** none
-- **Risks:** Contributors unfamiliar with `LOG-*` commits; mitigated via `CONTRIBUTING.md`.
+- **Risks:** Contributors unfamiliar with `LOG-*` commits; mitigated via `records/REPO.md` and `skills/commit-generator/SKILL.md`.
 - **Related ids:** none
 
 ## Recent Changes To Project Reality

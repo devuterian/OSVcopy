@@ -35,7 +35,7 @@ Accepted future direction only. No raw brainstorms here.
 
 - **Initiative:** Keep Swift CI and commit standards green on every PR.
   - **Why now:** Template contract is only valuable if enforced.
-  - **Dependencies:** contributor onboarding via `CONTRIBUTING.md`
+  - **Dependencies:** contributor onboarding via `records/REPO.md` and `AGENTS.md`
   - **Related ids:** none
 
 ### Mid Term

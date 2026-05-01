@@ -257,4 +257,4 @@ This repo is the **OSVcopy** macOS app (SwiftPM). The following extends the temp
 - **Project id (trailers):** `osvcopy` (use `sh scripts/new-commit-message.sh --project osvcopy ...` when the directory name differs).
 - **Build surfaces:** `swift build -c release`, `build_osvcopy_app.sh`, `scripts/build_release_dmg.sh`; artifacts under `dist/` and `.build/` are gitignored.
 - **`upstream-intake/`:** Present as in scaffold for template parity; **no upstream fork is tracked** today. Enable per `records/upstream-intake/README.md` only if that changes.
-- **Agent entry:** Human-oriented steps live in [`CONTRIBUTING.md`](../CONTRIBUTING.md); policy and routing remain in this file and in [`AGENTS.md`](../AGENTS.md).
+- **Agent entry:** [`AGENTS.md`](../AGENTS.md). Policy and routing remain in this file.

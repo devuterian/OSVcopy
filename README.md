@@ -72,13 +72,13 @@ swift build -c release
 ./scripts/build_release_dmg.sh
 ```
 
-자세한 기여 방법은 [CONTRIBUTING.md](CONTRIBUTING.md)를 보세요.
+기여·커밋 규약·훅 설치는 [`records/REPO.md`](records/REPO.md)와 [`AGENTS.md`](AGENTS.md)를 따릅니다. 클론 후 `sh scripts/install-hooks.sh` 한 번 실행하세요.
 
 ---
 
 ## 기여·이슈
 
-이슈와 PR을 환영합니다. 이 저장소는 [LPFchan/repo-template](https://github.com/LPFchan/repo-template)의 **scaffold**를 채택했습니다. 커밋 규약·훅·`records/` 운영은 **[CONTRIBUTING.md](CONTRIBUTING.md)** 에 모아 두었습니다. (제품 사용법은 위 섹션, 저장소 “운영 OS”는 `records/REPO.md`.)
+이슈와 PR을 환영합니다. 이 저장소는 [LPFchan/repo-template](https://github.com/LPFchan/repo-template)의 **scaffold**를 채택했습니다. 저장소 운영·커밋 형식은 **`records/REPO.md`**, 에이전트 진입은 **`AGENTS.md`** 입니다.
 
 ---
 
